@@ -30,7 +30,6 @@
 
 These are some of my collecxtions
 
-
 [![Neovim](https://img.shields.io/badge/Neovim-Plugin-green?logo=neovim)](#)
 
 ---
@@ -49,14 +48,4 @@ These are some of my collecxtions
 
 ---
 
-### 💡 Quick Tips for You
-
-- Keep badges current and relevant :contentReference[oaicite:3]{index=3}  
-- Group info into sections: Stats, Projects, Publications  
-- Use Shields.io or Badgen for consistent badges :contentReference[oaicite:4]{index=4}  
-- Add social/login links to improve networking  
-
----
-
 Thanks for visiting — let’s connect and make technology safer! 🚀
-
