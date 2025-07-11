@@ -30,7 +30,6 @@
 
 These are some of my collecxtions
 
-[![ML Community](https://img.shields.io/badge/Top%2010%25-ICML submissions-brightgreen)](#)  
 
 [![Neovim](https://img.shields.io/badge/Neovim-Plugin-green?logo=neovim)](#)
 
