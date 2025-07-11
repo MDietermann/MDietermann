@@ -1,8 +1,11 @@
 # 👋 Hi, I’m **Marvin Dietermann** (MDietermann)
 
 🔭 I’m currently working as a Software Developer / Web Developer at the Wagner eCommerce Group
+
 🌱 When I'm not currently coding at work, I'm coding at home, creating Games and Tools
+
 💻 Avid Neovim user | Linux tinkerer | Markdown enthusiast  
+
 🔧 Tools & Tech: Odin • JS/TS/Vue • C# & .Net • Neovim • Linux  
 
 > One day, I’ll craft worlds in code and color—digital dreams that heal, inspire, and gently change how we see life.
