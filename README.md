@@ -1,54 +1,34 @@
-# 👋 Hi, I’m **Marvin Dietermann** (MDietermann)
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Marvin Dietermann
+==========================================================================================================================================
 
-🔭 I’m currently working as a Software Developer / Web Developer at the Wagner eCommerce Group
+Software-Developer, Gym-Rat, Web-Developer
+------------------------------------------
 
-🌱 When I'm not currently coding at work, I'm coding at home, creating Games and Tools
+I started programming when I was ~14 Years old. From developing static Websites using HTML, CSS and JavaScript over to game-dev, first in Java, then using Unity and C#. My focus changed a couple of years ago to developing CLI-Tools and Database-Management Tools using Rust, C# and C++.
 
-💻 Avid Neovim user | Linux tinkerer | Markdown enthusiast  
+* 🌍  I'm based in Germany
+* ✉️  You can contact me at [marvin.dietermann@hive-brain.de](mailto:marvin.dietermann@hive-brain.de)
+* 🧠  I'm currently learning Rust and PCB-Soldering
+* 👥  I'm looking to collaborate on everything that helps me learn more!
 
-🔧 Tools & Tech: Odin • JS/TS/Vue • C# & .Net • Neovim • Linux  
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" alt="C#" title="C#" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored-dark.svg" alt="Rust" title="Rust" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://neovim.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/neovim-colored.svg" alt="Neovim" title="Neovim" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" alt="Vue" title="Vue" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" alt="Material UI" title="Material UI" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" alt="Raspberry Pi" title="Raspberry Pi" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" alt=".NET" title=".NET" width="36" height="36" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" alt="Flutter" title="Flutter" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
+</p>
+<a href="https://www.github.com/MDietermann" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/MDietermann?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+### Badges
 
-> One day, I’ll craft worlds in code and color—digital dreams that heal, inspire, and gently change how we see life.
+<b>My GitHub Stats</b>
 
----
+<a href="http://www.github.com/MDietermann"><img src="https://github-readme-stats.vercel.app/api?username=MDietermann&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="MDietermann's GitHub stats" /></a>
 
-## 📊 GitHub Stats
+<a href="http://www.github.com/MDietermann"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MDietermann&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MDietermann&layout=compact&theme=dracula)  
-![Stats](https://github-readme-stats.vercel.app/api?username=MDietermann&show_icons=true&theme=dracula&count_private=true)
+<b>Top Repositories</b>
 
----
+<div width="100%" align="center"><a href="https://github.com/MDietermann/BerichtsheftGenerator" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MDietermann&repo=BerichtsheftGenerator&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/MDietermann/DMS" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MDietermann&repo=DMS&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-## 🚀 Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| **Ashen Spire** | A Survival Horror Game, exploring the Depth of mental illness | Odin, RayLib |
-| **DMS** | A Database management System to export / import Tables | Rust, Vue |
-<!-- Add your actual projects with live links -->
+### Socials
 
----
-
-## 🏅 Badges & Achievements
-
-These are some of my collecxtions
-
-[![Neovim](https://img.shields.io/badge/Neovim-Plugin-green?logo=neovim)](#)
-
----
-
-## ✉️ Get in Touch
-
-- 📧 Email: `marvin.dietermann@hive-brain.de`  
-- 📷 Instagram: [EZM_Baby](https://www.instagram.com/ezm_baby/)  
-- 💬 Discord: `ezm_baby`
-
----
-
-## 🗓 Currently
-
-- Learning the Odin Programmin Language and RayLib
-
----
-
-Thanks for visiting — let’s connect and make technology safer! 🚀
+<p align="left"> <a href="https://www.github.com/MDietermann" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.threads.net/@ezm_baby" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" alt="Threads" title="Threads" /> </picture> </a> <a href="https://www.twitch.tv/ezm_baby" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" alt="Twitch" title="Twitch" /> </picture> </a></p>
