@@ -8,7 +8,7 @@ I started programming when I was ~14 Years old. From developing static Websites 
 
 * 🌍  I'm based in Germany
 * ✉️  You can contact me at [marvin.dietermann@hive-brain.de](mailto:marvin.dietermann@hive-brain.de)
-* 🧠  I'm currently learning Rust and PCB-Soldering
+* 🧠  I'm mainly working with Rust
 * 👥  I'm looking to collaborate on everything that helps me learn more!
 
 <p align="left">
@@ -16,6 +16,7 @@ I started programming when I was ~14 Years old. From developing static Websites 
 </p>
 <a href="https://www.github.com/MDietermann" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/MDietermann?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
 ### Badges
 
 <b>My GitHub Stats</b>
